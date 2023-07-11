@@ -486,7 +486,7 @@ else
 #Initialize reboot value to false
 $reboot = $false
 
-if(true)
+if($true)
 {
     $registryPathGoodGuys = @()
     $registryPathBadGuys = @()
